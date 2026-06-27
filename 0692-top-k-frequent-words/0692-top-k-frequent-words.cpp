@@ -30,7 +30,7 @@ public:
             }
             
             ans.push_back(v[j]);
-            v.erase(v.begin() + j); 
+          mp[v[j]]=0; 
             c++;
         }
 
