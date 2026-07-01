@@ -13,6 +13,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0347-top-k-frequent-elements](https://github.com/2k25adityasharma/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/2k25adityasharma/Leetcode-/tree/master/0692-top-k-frequent-words) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/2k25adityasharma/Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1920-build-array-from-permutation](https://github.com/2k25adityasharma/Leetcode-/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/2k25adityasharma/Leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/2k25adityasharma/Leetcode-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
@@ -63,6 +64,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/2k25adityasharma/Leetcode-/tree/master/0067-add-binary) |
+| [1920-build-array-from-permutation](https://github.com/2k25adityasharma/Leetcode-/tree/master/1920-build-array-from-permutation) |
 ## Two Pointers
 |  |
 | ------- |
