@@ -10,6 +10,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0048-rotate-image](https://github.com/2k25adityasharma/Leetcode-/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/2k25adityasharma/Leetcode-/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/2k25adityasharma/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/2k25adityasharma/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/2k25adityasharma/Leetcode-/tree/master/0692-top-k-frequent-words) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/2k25adityasharma/Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -32,6 +33,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/2k25adityasharma/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/2k25adityasharma/Leetcode-/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/2k25adityasharma/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/2k25adityasharma/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/2k25adityasharma/Leetcode-/tree/master/0692-top-k-frequent-words) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/2k25adityasharma/Leetcode-/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -50,6 +52,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | ------- |
 | [0049-group-anagrams](https://github.com/2k25adityasharma/Leetcode-/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/2k25adityasharma/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/2k25adityasharma/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/2k25adityasharma/Leetcode-/tree/master/0692-top-k-frequent-words) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/2k25adityasharma/Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
