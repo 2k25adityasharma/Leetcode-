@@ -32,6 +32,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/2k25adityasharma/Leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/2k25adityasharma/Leetcode-/tree/master/0507-perfect-number) |
 | [2469-convert-the-temperature](https://github.com/2k25adityasharma/Leetcode-/tree/master/2469-convert-the-temperature) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/2k25adityasharma/Leetcode-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Matrix
 |  |
 | ------- |
@@ -153,4 +154,8 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/2k25adityasharma/Leetcode-/tree/master/0164-maximum-gap) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/2k25adityasharma/Leetcode-/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
