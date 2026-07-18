@@ -170,4 +170,8 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/2k25adityasharma/Leetcode-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/2k25adityasharma/Leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/2k25adityasharma/Leetcode-/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
