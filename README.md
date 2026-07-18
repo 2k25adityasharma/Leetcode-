@@ -29,6 +29,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/2k25adityasharma/Leetcode-/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/2k25adityasharma/Leetcode-/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/2k25adityasharma/Leetcode-/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/2k25adityasharma/Leetcode-/tree/master/0268-missing-number) |
@@ -173,12 +174,14 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/2k25adityasharma/Leetcode-/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/2k25adityasharma/Leetcode-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/2k25adityasharma/Leetcode-/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/2k25adityasharma/Leetcode-/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/2k25adityasharma/Leetcode-/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/2k25adityasharma/Leetcode-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/2k25adityasharma/Leetcode-/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
