@@ -76,9 +76,6 @@ public:
         sum->next=t;
         sum=sum->next;
     }
-    ListNode *tempa=temp;
-    temp= temp->next;
-    delete tempa;
-     return temp;
+   return temp->next;
     }
 };
