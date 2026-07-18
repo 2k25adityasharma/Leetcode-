@@ -173,5 +173,10 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/2k25adityasharma/Leetcode-/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/2k25adityasharma/Leetcode-/tree/master/0237-delete-node-in-a-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/2k25adityasharma/Leetcode-/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
