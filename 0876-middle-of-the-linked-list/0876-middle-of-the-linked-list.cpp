@@ -19,17 +19,6 @@ public:
         }
             ListNode* ans=head;
 
-        if(c%2==0){
-        
-            int b = c/2;
-             c=0;
-            while( c<b){
-                c++;
-                ans=ans->next;
-            }
-            return ans;
-        }
-        else{
 
           int    b = c/2;
             c=0;
@@ -38,6 +27,6 @@ public:
                 ans=ans->next;
             }
             return ans;
-        }
+        
     }
 };
