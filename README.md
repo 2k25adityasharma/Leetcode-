@@ -6,6 +6,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/2k25adityasharma/Leetcode-/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/2k25adityasharma/Leetcode-/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/2k25adityasharma/Leetcode-/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/2k25adityasharma/Leetcode-/tree/master/0049-group-anagrams) |
@@ -47,6 +48,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/2k25adityasharma/Leetcode-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/2k25adityasharma/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/2k25adityasharma/Leetcode-/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/2k25adityasharma/Leetcode-/tree/master/0217-contains-duplicate) |
