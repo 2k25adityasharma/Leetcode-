@@ -17,6 +17,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0347-top-k-frequent-elements](https://github.com/2k25adityasharma/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/2k25adityasharma/Leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0692-top-k-frequent-words](https://github.com/2k25adityasharma/Leetcode-/tree/master/0692-top-k-frequent-words) |
+| [1260-shift-2d-grid](https://github.com/2k25adityasharma/Leetcode-/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/2k25adityasharma/Leetcode-/tree/master/1672-richest-customer-wealth) |
@@ -44,6 +45,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/2k25adityasharma/Leetcode-/tree/master/0048-rotate-image) |
+| [1260-shift-2d-grid](https://github.com/2k25adityasharma/Leetcode-/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/2k25adityasharma/Leetcode-/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -98,6 +100,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/2k25adityasharma/Leetcode-/tree/master/0067-add-binary) |
+| [1260-shift-2d-grid](https://github.com/2k25adityasharma/Leetcode-/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/2k25adityasharma/Leetcode-/tree/master/1920-build-array-from-permutation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/2k25adityasharma/Leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
