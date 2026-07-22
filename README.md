@@ -184,6 +184,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/2k25adityasharma/Leetcode-/tree/master/0002-add-two-numbers) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/2k25adityasharma/Leetcode-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/2k25adityasharma/Leetcode-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/2k25adityasharma/Leetcode-/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/2k25adityasharma/Leetcode-/tree/master/0237-delete-node-in-a-linked-list) |
