@@ -1,21 +1,18 @@
 class Solution {
 public:
     int maxProduct(int n) {
-     int a = -1;
-     int b =-1;
-    int t = n;
-     while(t>0){
-        int d = t%10;
-    if (d >= a) {
-    b = a;
-    a = d;
+   vector<int>ans;
+   while(n>0){
+    int a = n%10;
+    ans.push_back(a);
+    n=n/10;
+   }
+int size = ans.size();
+sort(ans.begin(),ans.end());
+if(size>=2){
+    return ans[size-2]*ans[size-1];
 }
-else if (d > b) {
-    b = d;
-}
-     t=t/10;
-     }
-    
-return a*b;
+return 0;
+
     }
 };
