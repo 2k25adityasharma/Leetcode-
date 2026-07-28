@@ -81,6 +81,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/2k25adityasharma/Leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/2k25adityasharma/Leetcode-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/2k25adityasharma/Leetcode-/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/2k25adityasharma/Leetcode-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [1331-rank-transform-of-an-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/2k25adityasharma/Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/2k25adityasharma/Leetcode-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/2k25adityasharma/Leetcode-/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/2k25adityasharma/Leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
@@ -225,4 +227,8 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/2k25adityasharma/Leetcode-/tree/master/3499-maximize-active-section-with-trade-i) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/2k25adityasharma/Leetcode-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
