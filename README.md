@@ -69,6 +69,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [1331-rank-transform-of-an-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/2k25adityasharma/Leetcode-/tree/master/1512-number-of-good-pairs) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/2k25adityasharma/Leetcode-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/2k25adityasharma/Leetcode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/2k25adityasharma/Leetcode-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
@@ -83,6 +84,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/2k25adityasharma/Leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/2k25adityasharma/Leetcode-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/2k25adityasharma/Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/2k25adityasharma/Leetcode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/2k25adityasharma/Leetcode-/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/2k25adityasharma/Leetcode-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
@@ -100,6 +102,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [1331-rank-transform-of-an-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/2k25adityasharma/Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/2k25adityasharma/Leetcode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/2k25adityasharma/Leetcode-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/2k25adityasharma/Leetcode-/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/2k25adityasharma/Leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -151,6 +154,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0347-top-k-frequent-elements](https://github.com/2k25adityasharma/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/2k25adityasharma/Leetcode-/tree/master/0692-top-k-frequent-words) |
 | [1512-number-of-good-pairs](https://github.com/2k25adityasharma/Leetcode-/tree/master/1512-number-of-good-pairs) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/2k25adityasharma/Leetcode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/2k25adityasharma/Leetcode-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -184,6 +188,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/2k25adityasharma/Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/2k25adityasharma/Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/2k25adityasharma/Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/2k25adityasharma/Leetcode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String Matching
 |  |
 | ------- |
