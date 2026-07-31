@@ -2,33 +2,24 @@ class Solution {
 public:
     int minimumPushes(string word) {
 
-        int ans =0;
-       unordered_map<char,int>mp;
-       int n = word.size();
-       for(int i =0;i<n;i++)
-       mp[word[i]]++;
+        unordered_map<char, int> mp;
 
-        int c=0;
-        int i =1;
-        char a ='0';
-       while(!mp.empty()){
-        int maxi =0;
-        for(auto x:mp){
-            if(maxi <x.second){
-                maxi = x.second;
-                a=x.first;
-             }
-          
+        for(char ch : word)
+            mp[ch]++;
+
+        vector<int> freq;
+
+        for(auto x : mp)
+            freq.push_back(x.second);
+
+        sort(freq.begin(), freq.end(), greater<int>());
+
+        int ans = 0;
+
+        for(int i = 0; i < freq.size(); i++) {
+            ans += ((i / 8) + 1) * freq[i];
         }
-        c++;
-        ans += i * maxi;
-       
-       
-  if(c%8==0)
-        i++;
-       
-    mp.erase(a);
-       }
-       return ans;
+
+        return ans;
     }
 };
