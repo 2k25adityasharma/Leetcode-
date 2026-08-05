@@ -44,6 +44,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0268-missing-number](https://github.com/2k25adityasharma/Leetcode-/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/2k25adityasharma/Leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/2k25adityasharma/Leetcode-/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/2k25adityasharma/Leetcode-/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/2k25adityasharma/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1512-number-of-good-pairs](https://github.com/2k25adityasharma/Leetcode-/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -237,6 +238,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0203-remove-linked-list-elements](https://github.com/2k25adityasharma/Leetcode-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/2k25adityasharma/Leetcode-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/2k25adityasharma/Leetcode-/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/2k25adityasharma/Leetcode-/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -258,4 +260,12 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/2k25adityasharma/Leetcode-/tree/master/0128-longest-consecutive-sequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/2k25adityasharma/Leetcode-/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/2k25adityasharma/Leetcode-/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
