@@ -1,9 +1,9 @@
 class Solution {
 public:
     int findNumbers(vector<int>& nums) {
-        int n = nums.size();
+        int m = nums.size();
             int ansa =0;
-        for(int i =0;i<n;i++){
+        for(int i =0;i<m;i++){
             int a  = nums[i];
             int n =0;
             while(a>0){
