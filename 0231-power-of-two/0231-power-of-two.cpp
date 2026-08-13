@@ -10,9 +10,7 @@ public:
          a/=2;
          
         }
-        if(a==(int)a && a==1)
-        return true;
-        else 
+    
         return false;
     }
 };
