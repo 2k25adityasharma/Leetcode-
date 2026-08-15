@@ -5,14 +5,17 @@ public:
 
         unordered_map<int, int> mp;
 
-        // Count frequency
+    
         ListNode* t = head;
         while (t != NULL) {
             mp[t->val]++;
             t = t->next;
         }
 
-        // Remove duplicates
+while (head != NULL && mp[head->val] > 1) {
+    head = head->next;
+}
+       
         ListNode* p = NULL;
         ListNode* t2 = head;
 
@@ -22,14 +25,8 @@ public:
                 t2 = t2->next;
             }
             else {
-                if (p != NULL) {
-                    p->next = t2->next;
-                }
-                else {
-                    head = t2->next;
-                }
-
-                t2 = t2->next;
+             t2=t2->next;
+             p->next=t2;
             }
         }
 
