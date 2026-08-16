@@ -35,6 +35,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/2k25adityasharma/Leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/2k25adityasharma/Leetcode-/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/2k25adityasharma/Leetcode-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/2k25adityasharma/Leetcode-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/2k25adityasharma/Leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/2k25adityasharma/Leetcode-/tree/master/3731-find-missing-elements) |
@@ -126,6 +127,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [1331-rank-transform-of-an-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/2k25adityasharma/Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/2k25adityasharma/Leetcode-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/2k25adityasharma/Leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/2k25adityasharma/Leetcode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/2k25adityasharma/Leetcode-/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -222,6 +224,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/2k25adityasharma/Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/2k25adityasharma/Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/2k25adityasharma/Leetcode-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/2k25adityasharma/Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/2k25adityasharma/Leetcode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String Matching
