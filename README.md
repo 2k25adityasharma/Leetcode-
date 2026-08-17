@@ -113,6 +113,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/2k25adityasharma/Leetcode-/tree/master/0049-group-anagrams) |
+| [0148-sort-list](https://github.com/2k25adityasharma/Leetcode-/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/2k25adityasharma/Leetcode-/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/2k25adityasharma/Leetcode-/tree/master/0217-contains-duplicate) |
@@ -163,6 +164,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/2k25adityasharma/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/2k25adityasharma/Leetcode-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/2k25adityasharma/Leetcode-/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/2k25adityasharma/Leetcode-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/2k25adityasharma/Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/2k25adityasharma/Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/2k25adityasharma/Leetcode-/tree/master/0876-middle-of-the-linked-list) |
@@ -171,6 +173,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/2k25adityasharma/Leetcode-/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/2k25adityasharma/Leetcode-/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/2k25adityasharma/Leetcode-/tree/master/0347-top-k-frequent-elements) |
@@ -182,6 +185,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/2k25adityasharma/Leetcode-/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/2k25adityasharma/Leetcode-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
@@ -254,6 +258,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/2k25adityasharma/Leetcode-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/2k25adityasharma/Leetcode-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/2k25adityasharma/Leetcode-/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/2k25adityasharma/Leetcode-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/2k25adityasharma/Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/2k25adityasharma/Leetcode-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/2k25adityasharma/Leetcode-/tree/master/0206-reverse-linked-list) |
