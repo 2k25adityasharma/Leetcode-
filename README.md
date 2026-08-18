@@ -10,6 +10,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0027-remove-element](https://github.com/2k25adityasharma/Leetcode-/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/2k25adityasharma/Leetcode-/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/2k25adityasharma/Leetcode-/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/2k25adityasharma/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/2k25adityasharma/Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0164-maximum-gap](https://github.com/2k25adityasharma/Leetcode-/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
@@ -67,6 +68,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/2k25adityasharma/Leetcode-/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/2k25adityasharma/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [1260-shift-2d-grid](https://github.com/2k25adityasharma/Leetcode-/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/2k25adityasharma/Leetcode-/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
@@ -238,6 +240,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/2k25adityasharma/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/2k25adityasharma/Leetcode-/tree/master/0268-missing-number) |
 ## Radix Sort
 |  |
