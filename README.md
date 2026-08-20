@@ -28,6 +28,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [1260-shift-2d-grid](https://github.com/2k25adityasharma/Leetcode-/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/2k25adityasharma/Leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/2k25adityasharma/Leetcode-/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/2k25adityasharma/Leetcode-/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/2k25adityasharma/Leetcode-/tree/master/1672-richest-customer-wealth) |
@@ -88,6 +89,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0560-subarray-sum-equals-k](https://github.com/2k25adityasharma/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/2k25adityasharma/Leetcode-/tree/master/0692-top-k-frequent-words) |
 | [1331-rank-transform-of-an-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/2k25adityasharma/Leetcode-/tree/master/1386-cinema-seat-allocation) |
 | [1512-number-of-good-pairs](https://github.com/2k25adityasharma/Leetcode-/tree/master/1512-number-of-good-pairs) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/2k25adityasharma/Leetcode-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/2k25adityasharma/Leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -150,6 +152,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0191-number-of-1-bits](https://github.com/2k25adityasharma/Leetcode-/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/2k25adityasharma/Leetcode-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/2k25adityasharma/Leetcode-/tree/master/0268-missing-number) |
+| [1386-cinema-seat-allocation](https://github.com/2k25adityasharma/Leetcode-/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/2k25adityasharma/Leetcode-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Simulation
 |  |
@@ -231,6 +234,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/2k25adityasharma/Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/2k25adityasharma/Leetcode-/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/2k25adityasharma/Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/2k25adityasharma/Leetcode-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/2k25adityasharma/Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
