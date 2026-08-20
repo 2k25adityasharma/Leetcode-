@@ -39,6 +39,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/2k25adityasharma/Leetcode-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/2k25adityasharma/Leetcode-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/2k25adityasharma/Leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/2k25adityasharma/Leetcode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/2k25adityasharma/Leetcode-/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/2k25adityasharma/Leetcode-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/2k25adityasharma/Leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -157,6 +158,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [1260-shift-2d-grid](https://github.com/2k25adityasharma/Leetcode-/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/2k25adityasharma/Leetcode-/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/2k25adityasharma/Leetcode-/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/2k25adityasharma/Leetcode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/2k25adityasharma/Leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
