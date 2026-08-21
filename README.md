@@ -51,6 +51,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0048-rotate-image](https://github.com/2k25adityasharma/Leetcode-/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/2k25adityasharma/Leetcode-/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/2k25adityasharma/Leetcode-/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/2k25adityasharma/Leetcode-/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/2k25adityasharma/Leetcode-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/2k25adityasharma/Leetcode-/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/2k25adityasharma/Leetcode-/tree/master/0326-power-of-three) |
@@ -105,6 +106,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0049-group-anagrams](https://github.com/2k25adityasharma/Leetcode-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/2k25adityasharma/Leetcode-/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/2k25adityasharma/Leetcode-/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/2k25adityasharma/Leetcode-/tree/master/0171-excel-sheet-column-number) |
 | [0692-top-k-frequent-words](https://github.com/2k25adityasharma/Leetcode-/tree/master/0692-top-k-frequent-words) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/2k25adityasharma/Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/2k25adityasharma/Leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
