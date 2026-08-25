@@ -18,13 +18,12 @@ public:
 
         int n = nums.size();
         int a = 1;
-        int f = 0;
-
+    
         for(int i = 0; i < n; i++) {
 
             if(nums[i] == k * a) {
                 a++;
-                f = 1;
+                
             }
 
             if(k * a < nums[i]) {
