@@ -7,6 +7,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/2k25adityasharma/Leetcode-/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/2k25adityasharma/Leetcode-/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/2k25adityasharma/Leetcode-/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/2k25adityasharma/Leetcode-/tree/master/0049-group-anagrams) |
@@ -174,6 +175,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/2k25adityasharma/Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/2k25adityasharma/Leetcode-/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/2k25adityasharma/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/2k25adityasharma/Leetcode-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
