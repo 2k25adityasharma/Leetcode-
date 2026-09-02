@@ -7,6 +7,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/2k25adityasharma/Leetcode-/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/2k25adityasharma/Leetcode-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/2k25adityasharma/Leetcode-/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/2k25adityasharma/Leetcode-/tree/master/0048-rotate-image) |
@@ -128,6 +129,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/2k25adityasharma/Leetcode-/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/2k25adityasharma/Leetcode-/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/2k25adityasharma/Leetcode-/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/2k25adityasharma/Leetcode-/tree/master/0164-maximum-gap) |
@@ -177,6 +179,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/2k25adityasharma/Leetcode-/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/2k25adityasharma/Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/2k25adityasharma/Leetcode-/tree/master/0027-remove-element) |
