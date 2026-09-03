@@ -13,6 +13,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0048-rotate-image](https://github.com/2k25adityasharma/Leetcode-/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/2k25adityasharma/Leetcode-/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/2k25adityasharma/Leetcode-/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/2k25adityasharma/Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0164-maximum-gap](https://github.com/2k25adityasharma/Leetcode-/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
@@ -131,6 +132,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | ------- |
 | [0016-3sum-closest](https://github.com/2k25adityasharma/Leetcode-/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/2k25adityasharma/Leetcode-/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/2k25adityasharma/Leetcode-/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/2k25adityasharma/Leetcode-/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
@@ -185,6 +187,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0027-remove-element](https://github.com/2k25adityasharma/Leetcode-/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/2k25adityasharma/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/2k25adityasharma/Leetcode-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/2k25adityasharma/Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/2k25adityasharma/Leetcode-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/2k25adityasharma/Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
