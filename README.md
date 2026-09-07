@@ -54,6 +54,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/2k25adityasharma/Leetcode-/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/2k25adityasharma/Leetcode-/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/2k25adityasharma/Leetcode-/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/2k25adityasharma/Leetcode-/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/2k25adityasharma/Leetcode-/tree/master/0067-add-binary) |
@@ -113,6 +114,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/2k25adityasharma/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/2k25adityasharma/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/2k25adityasharma/Leetcode-/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/2k25adityasharma/Leetcode-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/2k25adityasharma/Leetcode-/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/2k25adityasharma/Leetcode-/tree/master/0067-add-binary) |
@@ -173,6 +175,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/2k25adityasharma/Leetcode-/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/2k25adityasharma/Leetcode-/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/2k25adityasharma/Leetcode-/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/2k25adityasharma/Leetcode-/tree/master/1920-build-array-from-permutation) |
