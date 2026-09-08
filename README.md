@@ -118,6 +118,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0049-group-anagrams](https://github.com/2k25adityasharma/Leetcode-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/2k25adityasharma/Leetcode-/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/2k25adityasharma/Leetcode-/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/2k25adityasharma/Leetcode-/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/2k25adityasharma/Leetcode-/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/2k25adityasharma/Leetcode-/tree/master/0290-word-pattern) |
 | [0692-top-k-frequent-words](https://github.com/2k25adityasharma/Leetcode-/tree/master/0692-top-k-frequent-words) |
@@ -192,6 +193,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/2k25adityasharma/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/2k25adityasharma/Leetcode-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/2k25adityasharma/Leetcode-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/2k25adityasharma/Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/2k25adityasharma/Leetcode-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/2k25adityasharma/Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
