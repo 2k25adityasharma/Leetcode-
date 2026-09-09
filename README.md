@@ -17,6 +17,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0088-merge-sorted-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/2k25adityasharma/Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0164-maximum-gap](https://github.com/2k25adityasharma/Leetcode-/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/2k25adityasharma/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/2k25adityasharma/Leetcode-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/2k25adityasharma/Leetcode-/tree/master/0268-missing-number) |
@@ -202,6 +203,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0141-linked-list-cycle](https://github.com/2k25adityasharma/Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/2k25adityasharma/Leetcode-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/2k25adityasharma/Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/2k25adityasharma/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/2k25adityasharma/Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/2k25adityasharma/Leetcode-/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/0977-squares-of-a-sorted-array) |
@@ -278,6 +280,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/2k25adityasharma/Leetcode-/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/2k25adityasharma/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/2k25adityasharma/Leetcode-/tree/master/0268-missing-number) |
 ## Radix Sort
 |  |
