@@ -29,6 +29,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0674-longest-continuous-increasing-subsequence](https://github.com/2k25adityasharma/Leetcode-/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/2k25adityasharma/Leetcode-/tree/master/0692-top-k-frequent-words) |
 | [0929-unique-email-addresses](https://github.com/2k25adityasharma/Leetcode-/tree/master/0929-unique-email-addresses) |
+| [0977-squares-of-a-sorted-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/2k25adityasharma/Leetcode-/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/2k25adityasharma/Leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/1331-rank-transform-of-an-array) |
@@ -149,6 +150,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0506-relative-ranks](https://github.com/2k25adityasharma/Leetcode-/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/2k25adityasharma/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/2k25adityasharma/Leetcode-/tree/master/0692-top-k-frequent-words) |
+| [0977-squares-of-a-sorted-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/2k25adityasharma/Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -199,6 +201,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0160-intersection-of-two-linked-lists](https://github.com/2k25adityasharma/Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/2k25adityasharma/Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/2k25adityasharma/Leetcode-/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/2k25adityasharma/Leetcode-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/2k25adityasharma/Leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
