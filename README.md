@@ -64,6 +64,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0067-add-binary](https://github.com/2k25adityasharma/Leetcode-/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/2k25adityasharma/Leetcode-/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/2k25adityasharma/Leetcode-/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/2k25adityasharma/Leetcode-/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/2k25adityasharma/Leetcode-/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/2k25adityasharma/Leetcode-/tree/master/0326-power-of-three) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/2k25adityasharma/Leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -184,6 +185,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | ------- |
 | [0043-multiply-strings](https://github.com/2k25adityasharma/Leetcode-/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/2k25adityasharma/Leetcode-/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/2k25adityasharma/Leetcode-/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/2k25adityasharma/Leetcode-/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/2k25adityasharma/Leetcode-/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/2k25adityasharma/Leetcode-/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -292,6 +294,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/2k25adityasharma/Leetcode-/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/2k25adityasharma/Leetcode-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/2k25adityasharma/Leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
