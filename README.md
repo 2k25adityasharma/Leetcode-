@@ -73,6 +73,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0628-maximum-product-of-three-numbers](https://github.com/2k25adityasharma/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/2k25adityasharma/Leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/2k25adityasharma/Leetcode-/tree/master/1512-number-of-good-pairs) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/2k25adityasharma/Leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/2k25adityasharma/Leetcode-/tree/master/2469-convert-the-temperature) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/2k25adityasharma/Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -242,6 +243,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/2k25adityasharma/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/2k25adityasharma/Leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/2k25adityasharma/Leetcode-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3904-smallest-stable-index-ii](https://github.com/2k25adityasharma/Leetcode-/tree/master/3904-smallest-stable-index-ii) |
 ## Trie
@@ -353,8 +355,13 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/2k25adityasharma/Leetcode-/tree/master/0509-fibonacci-number) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/2k25adityasharma/Leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/2k25adityasharma/Leetcode-/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/2k25adityasharma/Leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
