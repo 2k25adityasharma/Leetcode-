@@ -12,17 +12,17 @@ public:
         while (i < j) {
 
           
-         while(i < j && !isLetter(s[i])) {
+         if(!isLetter(s[i])) {
                 i++;
             }
 
           
-            while (i < j && !isLetter(s[j])) {
+            else if ( !isLetter(s[j])) {
                 j--;
             }
 
          
-            if (i < j) {
+            else {
                 swap(s[i], s[j]);
                 i++;
                 j--;
