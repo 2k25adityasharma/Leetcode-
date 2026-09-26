@@ -14,11 +14,13 @@ public:
             }
            
             else {
+                    if(ans == 0)
+        break;
+
                 ans--;
                 power+=token[j];
                 j--;
-                if(ans <0)
-                return 0;
+                
             }
 
         }
