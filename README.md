@@ -31,6 +31,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0628-maximum-product-of-three-numbers](https://github.com/2k25adityasharma/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/2k25adityasharma/Leetcode-/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/2k25adityasharma/Leetcode-/tree/master/0692-top-k-frequent-words) |
+| [0881-boats-to-save-people](https://github.com/2k25adityasharma/Leetcode-/tree/master/0881-boats-to-save-people) |
 | [0929-unique-email-addresses](https://github.com/2k25adityasharma/Leetcode-/tree/master/0929-unique-email-addresses) |
 | [0977-squares-of-a-sorted-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/2k25adityasharma/Leetcode-/tree/master/1051-height-checker) |
@@ -159,6 +160,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0506-relative-ranks](https://github.com/2k25adityasharma/Leetcode-/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/2k25adityasharma/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/2k25adityasharma/Leetcode-/tree/master/0692-top-k-frequent-words) |
+| [0881-boats-to-save-people](https://github.com/2k25adityasharma/Leetcode-/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/2k25adityasharma/Leetcode-/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/1331-rank-transform-of-an-array) |
@@ -216,6 +218,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2k25adityasharma/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/2k25adityasharma/Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/2k25adityasharma/Leetcode-/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/2k25adityasharma/Leetcode-/tree/master/0881-boats-to-save-people) |
 | [0917-reverse-only-letters](https://github.com/2k25adityasharma/Leetcode-/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/2k25adityasharma/Leetcode-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -279,6 +282,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/2k25adityasharma/Leetcode-/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/2k25adityasharma/Leetcode-/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/2k25adityasharma/Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/2k25adityasharma/Leetcode-/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/2k25adityasharma/Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -375,4 +379,8 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/2k25adityasharma/Leetcode-/tree/master/1051-height-checker) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/2k25adityasharma/Leetcode-/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
