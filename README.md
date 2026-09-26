@@ -33,6 +33,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0692-top-k-frequent-words](https://github.com/2k25adityasharma/Leetcode-/tree/master/0692-top-k-frequent-words) |
 | [0929-unique-email-addresses](https://github.com/2k25adityasharma/Leetcode-/tree/master/0929-unique-email-addresses) |
 | [0977-squares-of-a-sorted-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/2k25adityasharma/Leetcode-/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/2k25adityasharma/Leetcode-/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/2k25adityasharma/Leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/1331-rank-transform-of-an-array) |
@@ -159,6 +160,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0628-maximum-product-of-three-numbers](https://github.com/2k25adityasharma/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/2k25adityasharma/Leetcode-/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/2k25adityasharma/Leetcode-/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/2k25adityasharma/Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -350,6 +352,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/2k25adityasharma/Leetcode-/tree/master/1051-height-checker) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/2k25adityasharma/Leetcode-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Union-Find
 |  |
@@ -368,4 +371,8 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/2k25adityasharma/Leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/2k25adityasharma/Leetcode-/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
