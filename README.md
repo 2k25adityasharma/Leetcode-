@@ -27,6 +27,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0442-find-all-duplicates-in-an-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/2k25adityasharma/Leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/2k25adityasharma/Leetcode-/tree/master/0506-relative-ranks) |
+| [0540-single-element-in-a-sorted-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/2k25adityasharma/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/2k25adityasharma/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/2k25adityasharma/Leetcode-/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -305,6 +306,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0074-search-a-2d-matrix](https://github.com/2k25adityasharma/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2k25adityasharma/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/2k25adityasharma/Leetcode-/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 ## Radix Sort
 |  |
 | ------- |
