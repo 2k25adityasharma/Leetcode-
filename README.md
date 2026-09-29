@@ -107,6 +107,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0268-missing-number](https://github.com/2k25adityasharma/Leetcode-/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/2k25adityasharma/Leetcode-/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/2k25adityasharma/Leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/2k25adityasharma/Leetcode-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/2k25adityasharma/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/2k25adityasharma/Leetcode-/tree/master/0692-top-k-frequent-words) |
@@ -136,6 +137,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0125-valid-palindrome](https://github.com/2k25adityasharma/Leetcode-/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/2k25adityasharma/Leetcode-/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/2k25adityasharma/Leetcode-/tree/master/0290-word-pattern) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/2k25adityasharma/Leetcode-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/2k25adityasharma/Leetcode-/tree/master/0692-top-k-frequent-words) |
 | [0917-reverse-only-letters](https://github.com/2k25adityasharma/Leetcode-/tree/master/0917-reverse-only-letters) |
 | [0929-unique-email-addresses](https://github.com/2k25adityasharma/Leetcode-/tree/master/0929-unique-email-addresses) |
@@ -188,6 +190,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/2k25adityasharma/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/2k25adityasharma/Leetcode-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/2k25adityasharma/Leetcode-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/2k25adityasharma/Leetcode-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/2k25adityasharma/Leetcode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
