@@ -23,6 +23,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0209-minimum-size-subarray-sum](https://github.com/2k25adityasharma/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/2k25adityasharma/Leetcode-/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/2k25adityasharma/Leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/2k25adityasharma/Leetcode-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/2k25adityasharma/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/2k25adityasharma/Leetcode-/tree/master/0414-third-maximum-number) |
@@ -107,6 +108,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0141-linked-list-cycle](https://github.com/2k25adityasharma/Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/2k25adityasharma/Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/2k25adityasharma/Leetcode-/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/2k25adityasharma/Leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/2k25adityasharma/Leetcode-/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/2k25adityasharma/Leetcode-/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/2k25adityasharma/Leetcode-/tree/master/0347-top-k-frequent-elements) |
@@ -194,6 +196,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/2k25adityasharma/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/2k25adityasharma/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/2k25adityasharma/Leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/2k25adityasharma/Leetcode-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/2k25adityasharma/Leetcode-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/2k25adityasharma/Leetcode-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
