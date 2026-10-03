@@ -35,6 +35,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0628-maximum-product-of-three-numbers](https://github.com/2k25adityasharma/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/2k25adityasharma/Leetcode-/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/2k25adityasharma/Leetcode-/tree/master/0692-top-k-frequent-words) |
+| [0713-subarray-product-less-than-k](https://github.com/2k25adityasharma/Leetcode-/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/2k25adityasharma/Leetcode-/tree/master/0735-asteroid-collision) |
 | [0881-boats-to-save-people](https://github.com/2k25adityasharma/Leetcode-/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/2k25adityasharma/Leetcode-/tree/master/0904-fruit-into-baskets) |
@@ -204,6 +205,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0209-minimum-size-subarray-sum](https://github.com/2k25adityasharma/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/2k25adityasharma/Leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/2k25adityasharma/Leetcode-/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0713-subarray-product-less-than-k](https://github.com/2k25adityasharma/Leetcode-/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/2k25adityasharma/Leetcode-/tree/master/0904-fruit-into-baskets) |
 | [1695-maximum-erasure-value](https://github.com/2k25adityasharma/Leetcode-/tree/master/1695-maximum-erasure-value) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/2k25adityasharma/Leetcode-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -291,6 +293,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/2k25adityasharma/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/2k25adityasharma/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/2k25adityasharma/Leetcode-/tree/master/0713-subarray-product-less-than-k) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/2k25adityasharma/Leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/2k25adityasharma/Leetcode-/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3904-smallest-stable-index-ii](https://github.com/2k25adityasharma/Leetcode-/tree/master/3904-smallest-stable-index-ii) |
@@ -341,6 +344,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0209-minimum-size-subarray-sum](https://github.com/2k25adityasharma/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/2k25adityasharma/Leetcode-/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0713-subarray-product-less-than-k](https://github.com/2k25adityasharma/Leetcode-/tree/master/0713-subarray-product-less-than-k) |
 ## Radix Sort
 |  |
 | ------- |
