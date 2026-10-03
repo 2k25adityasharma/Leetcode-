@@ -37,6 +37,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0692-top-k-frequent-words](https://github.com/2k25adityasharma/Leetcode-/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/2k25adityasharma/Leetcode-/tree/master/0735-asteroid-collision) |
 | [0881-boats-to-save-people](https://github.com/2k25adityasharma/Leetcode-/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/2k25adityasharma/Leetcode-/tree/master/0904-fruit-into-baskets) |
 | [0929-unique-email-addresses](https://github.com/2k25adityasharma/Leetcode-/tree/master/0929-unique-email-addresses) |
 | [0948-bag-of-tokens](https://github.com/2k25adityasharma/Leetcode-/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/0977-squares-of-a-sorted-array) |
@@ -118,6 +119,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0442-find-all-duplicates-in-an-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/2k25adityasharma/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/2k25adityasharma/Leetcode-/tree/master/0692-top-k-frequent-words) |
+| [0904-fruit-into-baskets](https://github.com/2k25adityasharma/Leetcode-/tree/master/0904-fruit-into-baskets) |
 | [0929-unique-email-addresses](https://github.com/2k25adityasharma/Leetcode-/tree/master/0929-unique-email-addresses) |
 | [1331-rank-transform-of-an-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/2k25adityasharma/Leetcode-/tree/master/1386-cinema-seat-allocation) |
@@ -202,6 +204,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0209-minimum-size-subarray-sum](https://github.com/2k25adityasharma/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/2k25adityasharma/Leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/2k25adityasharma/Leetcode-/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0904-fruit-into-baskets](https://github.com/2k25adityasharma/Leetcode-/tree/master/0904-fruit-into-baskets) |
 | [1695-maximum-erasure-value](https://github.com/2k25adityasharma/Leetcode-/tree/master/1695-maximum-erasure-value) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/2k25adityasharma/Leetcode-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/2k25adityasharma/Leetcode-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
