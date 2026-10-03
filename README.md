@@ -53,6 +53,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [1920-build-array-from-permutation](https://github.com/2k25adityasharma/Leetcode-/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/2k25adityasharma/Leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/2k25adityasharma/Leetcode-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/2k25adityasharma/Leetcode-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/2k25adityasharma/Leetcode-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/2k25adityasharma/Leetcode-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -184,6 +185,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [1331-rank-transform-of-an-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/2k25adityasharma/Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/2k25adityasharma/Leetcode-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/2k25adityasharma/Leetcode-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/2k25adityasharma/Leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/2k25adityasharma/Leetcode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -199,6 +201,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0219-contains-duplicate-ii](https://github.com/2k25adityasharma/Leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/2k25adityasharma/Leetcode-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/2k25adityasharma/Leetcode-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/2k25adityasharma/Leetcode-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/2k25adityasharma/Leetcode-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/2k25adityasharma/Leetcode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
