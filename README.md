@@ -61,6 +61,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/2k25adityasharma/Leetcode-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/2k25adityasharma/Leetcode-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/2k25adityasharma/Leetcode-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/2k25adityasharma/Leetcode-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/2k25adityasharma/Leetcode-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/2k25adityasharma/Leetcode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/2k25adityasharma/Leetcode-/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -401,6 +402,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/2k25adityasharma/Leetcode-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/2k25adityasharma/Leetcode-/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Counting Sort
 |  |
