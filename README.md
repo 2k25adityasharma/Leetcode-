@@ -142,6 +142,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/2k25adityasharma/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/2k25adityasharma/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/2k25adityasharma/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/2k25adityasharma/Leetcode-/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/2k25adityasharma/Leetcode-/tree/master/0049-group-anagrams) |
@@ -393,6 +394,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/2k25adityasharma/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/2k25adityasharma/Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/2k25adityasharma/Leetcode-/tree/master/0735-asteroid-collision) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/2k25adityasharma/Leetcode-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -439,5 +441,6 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/2k25adityasharma/Leetcode-/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2k25adityasharma/Leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
