@@ -56,6 +56,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [1695-maximum-erasure-value](https://github.com/2k25adityasharma/Leetcode-/tree/master/1695-maximum-erasure-value) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/2k25adityasharma/Leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1920-build-array-from-permutation](https://github.com/2k25adityasharma/Leetcode-/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/2k25adityasharma/Leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/2k25adityasharma/Leetcode-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -236,6 +237,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0735-asteroid-collision](https://github.com/2k25adityasharma/Leetcode-/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/2k25adityasharma/Leetcode-/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/2k25adityasharma/Leetcode-/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/2k25adityasharma/Leetcode-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/2k25adityasharma/Leetcode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/2k25adityasharma/Leetcode-/tree/master/3498-reverse-degree-of-a-string) |
