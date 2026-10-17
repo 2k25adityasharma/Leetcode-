@@ -86,6 +86,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0258-add-digits](https://github.com/2k25adityasharma/Leetcode-/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/2k25adityasharma/Leetcode-/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/2k25adityasharma/Leetcode-/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/2k25adityasharma/Leetcode-/tree/master/0412-fizz-buzz) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/2k25adityasharma/Leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/2k25adityasharma/Leetcode-/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/2k25adityasharma/Leetcode-/tree/master/0509-fibonacci-number) |
@@ -155,6 +156,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0125-valid-palindrome](https://github.com/2k25adityasharma/Leetcode-/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/2k25adityasharma/Leetcode-/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/2k25adityasharma/Leetcode-/tree/master/0290-word-pattern) |
+| [0412-fizz-buzz](https://github.com/2k25adityasharma/Leetcode-/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/2k25adityasharma/Leetcode-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/2k25adityasharma/Leetcode-/tree/master/0692-top-k-frequent-words) |
 | [0917-reverse-only-letters](https://github.com/2k25adityasharma/Leetcode-/tree/master/0917-reverse-only-letters) |
@@ -234,6 +236,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0043-multiply-strings](https://github.com/2k25adityasharma/Leetcode-/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/2k25adityasharma/Leetcode-/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/2k25adityasharma/Leetcode-/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/2k25adityasharma/Leetcode-/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/2k25adityasharma/Leetcode-/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/2k25adityasharma/Leetcode-/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/2k25adityasharma/Leetcode-/tree/master/1920-build-array-from-permutation) |
