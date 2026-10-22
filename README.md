@@ -78,6 +78,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/2k25adityasharma/Leetcode-/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/2k25adityasharma/Leetcode-/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/2k25adityasharma/Leetcode-/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/2k25adityasharma/Leetcode-/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/2k25adityasharma/Leetcode-/tree/master/0050-powx-n) |
