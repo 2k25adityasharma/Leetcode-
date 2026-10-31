@@ -1,34 +1,37 @@
 class Solution {
 public:
-    vector<int> findAnagrams(string s, string p) {
-        unordered_map<char,int>sp;
-        unordered_map<char,int>pp;
-        for(int x:p){
-            pp[x]++;
+    bool all_zero(unordered_map<char,int>mp){
+        for(auto x:  mp){ 
+            if(x.second!=0)
+            return false;
         }
-  vector<int>ans;
-        //jitni p ki lenth utni window 
-        for(int i =0;i<p.size();i++){
-      sp[s[i]]++;
-     }
-   //  ..case 1 ke liye checkking
-     
-     if(sp==pp){
-        ans.push_back(0);
-     }
-    int j =0;
-     // 1 badaya 1 gataya is condition statify then mp se vo wle element hata dunga 
-     for( int i = p.size();i<s.size();i++){
-          sp[s[i]]++;
-          sp[s[j]]--;
-          if(sp[s[j]]==0){
-            sp.erase(s[j]);
-          }
-          j++;
-          if(sp==pp){
+        return true;
+    }
+    vector<int> findAnagrams(string s, string p) {
+        
+        unordered_map<char,int>mp;
+        for(auto x: p){
+            mp[x]++;
+        }
+
+       
+    vector<int>ans;
+       int j =0;
+    for(int i =0;i<s.size();i++){
+       if(mp.find(s[i])!=mp.end()){
+        mp[s[i]]--;
+       }
+
+       if(i-j+1==p.size()){
+        if(all_zero(mp)){
             ans.push_back(j);
-            }
-     }
-     return ans;
+        }
+       if(mp.find(s[j])!=mp.end()){
+        mp[s[j]]++;
+       } 
+       j++;
+       }
+    }
+    return ans;
     }
 };
