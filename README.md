@@ -35,6 +35,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0540-single-element-in-a-sorted-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/2k25adityasharma/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/2k25adityasharma/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/2k25adityasharma/Leetcode-/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/2k25adityasharma/Leetcode-/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/2k25adityasharma/Leetcode-/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/2k25adityasharma/Leetcode-/tree/master/0713-subarray-product-less-than-k) |
@@ -131,6 +132,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0438-find-all-anagrams-in-a-string](https://github.com/2k25adityasharma/Leetcode-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/2k25adityasharma/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/2k25adityasharma/Leetcode-/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/2k25adityasharma/Leetcode-/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/2k25adityasharma/Leetcode-/tree/master/0904-fruit-into-baskets) |
 | [0929-unique-email-addresses](https://github.com/2k25adityasharma/Leetcode-/tree/master/0929-unique-email-addresses) |
@@ -200,6 +202,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/2k25adityasharma/Leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/2k25adityasharma/Leetcode-/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/2k25adityasharma/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/2k25adityasharma/Leetcode-/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/2k25adityasharma/Leetcode-/tree/master/0692-top-k-frequent-words) |
 | [0881-boats-to-save-people](https://github.com/2k25adityasharma/Leetcode-/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/2k25adityasharma/Leetcode-/tree/master/0948-bag-of-tokens) |
@@ -241,6 +244,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [0191-number-of-1-bits](https://github.com/2k25adityasharma/Leetcode-/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/2k25adityasharma/Leetcode-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/2k25adityasharma/Leetcode-/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/2k25adityasharma/Leetcode-/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/2k25adityasharma/Leetcode-/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/2k25adityasharma/Leetcode-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Simulation
