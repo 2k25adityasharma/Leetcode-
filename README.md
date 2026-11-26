@@ -104,6 +104,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2k25adityasharma/Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/2k25adityasharma/Leetcode-/tree/master/2469-convert-the-temperature) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/2k25adityasharma/Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3360-stone-removal-game](https://github.com/2k25adityasharma/Leetcode-/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/2k25adityasharma/Leetcode-/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/2k25adityasharma/Leetcode-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/2k25adityasharma/Leetcode-/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -262,6 +263,7 @@ A collection of my LeetCode solutions in C++, focused on Data Structures, Algori
 | [2149-rearrange-array-elements-by-sign](https://github.com/2k25adityasharma/Leetcode-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/2k25adityasharma/Leetcode-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/2k25adityasharma/Leetcode-/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/2k25adityasharma/Leetcode-/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/2k25adityasharma/Leetcode-/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/2k25adityasharma/Leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
